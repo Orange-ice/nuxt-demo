@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{252:function(n,t,e){"use strict";e.r(t);var l={name:"AboutPage"},o=e(43),component=Object(o.a)(l,(function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h2",[n._v("About")]),n._v(" "),e("nuxt-link",{attrs:{to:"/"}},[n._v("\n    首页\n  ")])],1)}),[],!1,null,null,null);t.default=component.exports}}]);
